@@ -1,2 +1,2 @@
 # git-practice
-practice git development process
+master branch
